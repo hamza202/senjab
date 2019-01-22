@@ -20,8 +20,8 @@
                                         class="fa fa-sign-in" aria-hidden="true"></i>
                                 </a></li>
                             <li><span>OR</span></li>
-                            <li><a class="button button-border white small icon m-0" href="#">sign out <i
-                                        class="fa fa-sign-out" aria-hidden="true"></i>
+                            <li><a class="button button-border white small icon m-0" href="#">sign up <i
+                                        class="fa  fa-user-plus" aria-hidden="true"></i>
                                 </a></li>
                         </ul>
                     </div>
@@ -44,7 +44,7 @@
                             <!-- menu logo -->
                             <ul class="menu-logo">
                                 <li>
-                                    <a href="index-01.html"><img id="logo_img" src="images/logo.png" alt="logo">
+                                    <a href="index.php"><img id="logo_img" src="images/logo.png" alt="logo">
                                     </a>
                                 </li>
                             </ul>
