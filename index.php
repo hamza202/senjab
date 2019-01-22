@@ -39,12 +39,6 @@
 
 <body>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557RCPW"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 <div class="wrapper">
 
@@ -62,92 +56,7 @@
     <!--=================================
      header -->
 
-    <header id="header" class="header fancy">
-        <div class="topbar">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="topbar-social text-center text-md-left pt-lg-2">
-                            <ul class="pt-lg-1">
-                                <li><a href="#"><span class="ti-facebook"></span></a></li>
-                                <li><a href="#"><span class="ti-instagram"></span></a></li>
-                                <li><a href="#"><span class="ti-google"></span></a></li>
-                                <li><a href="#"><span class="ti-twitter"></span></a></li>
-                                <li><a href="#"><span class="ti-linkedin"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 xs-mb-10">
-                        <div class="topbar-call text-center text-md-right">
-                            <ul>
-                                <li><a class="button button-border white small icon m-0" href="#">sign in <i
-                                        class="fa fa-sign-in" aria-hidden="true"></i>
-                                </a></li>
-                                <li><span>OR</span></li>
-                                <li><a class="button button-border white small icon m-0" href="#">sign out <i
-                                        class="fa fa-sign-out" aria-hidden="true"></i>
-                                </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--=================================
-         mega menu -->
-
-        <div class="menu">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 col-md-12">
-                        <!-- menu start -->
-                        <nav id="menu" class="mega-menu">
-                            <!-- menu list items container -->
-                            <section class="menu-list-items">
-                                <!-- menu logo -->
-                                <ul class="menu-logo">
-                                    <li>
-                                        <a href="index-01.html"><img id="logo_img" src="images/logo.png" alt="logo">
-                                        </a>
-                                    </li>
-                                </ul>
-                                <!-- menu links -->
-                                <div class="menu-bar">
-                                    <ul class="menu-links">
-
-                                        <li>
-                                            <a href="#">about </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Shop </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">pricing </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">reviews </a>
-                                        </li>
-                                        <li>
-                                            <a href="javascript:void(0)">help <i
-                                                    class="fa fa-angle-down fa-indicator"></i></a>
-                                            <!-- drop down multilevel  -->
-                                            <ul class="drop-down-multilevel">
-                                                <li><a href="javascript:void(0)">articles </a></li>
-                                                <li><a href="javascript:void(0)">faq </a></li>
-                                                <li><a href="javascript:void(0)">contact us </a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </section>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- menu end -->
-    </header>
+    <?php include 'header.php' ?>
 
     <!--=================================
      header -->
@@ -185,13 +94,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img class="img-fluid full-width mb-20" src="images/4.jpg" alt="">
+                    <img class="img-fluid full-width mb-20" src="images/about2.png" alt="">
                 </div>
                 <div class="col-lg-6">
                     <div class="section-title">
                         <h2 class="title-effect">About Senjab</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi consequatur
-                            consequuntur.</p>
                     </div>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi consequatur consequuntur
@@ -350,36 +257,7 @@
     <!--=================================
      footer -->
 
-    <footer class="footer footer-topbar black-bg">
-        <div class="copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <img class="img-fluid" id="logo-footer" src="images/logo.png" alt="">
-                        <div class="footer-text">
-                            <p> ©Copyright <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> <a href="#"> Senjab </a> All Rights Reserved </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="footer-social">
-                            <ul class="text-left text-lg-right">
-                                <li class="list-inline-item"><a href="#">Terms &amp; Conditions </a> &nbsp;&nbsp;&nbsp;|</li>
-                                <li class="list-inline-item"><a href="#">Contact Us </a> &nbsp;&nbsp;&nbsp;|</li>
-                                <li class="list-inline-item"><a href="#">Privacy Policy </a> </li>
-                            </ul></div>
-                        <div class="social-icons color-hover text-left text-lg-right mt-30">
-                            <ul class="clearfix">
-                                <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li class="social-dribbble"><a href="#"><i class="fa fa-instagram"></i> </a></li>
-                                <li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i> </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php include 'footer.php'?>
 
     <!--=================================
      footer -->

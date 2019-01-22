@@ -1,3 +1,6 @@
+body{
+    font-size: 15px;
+}
 .header.fancy .topbar {
     background: #493a31;
 }
@@ -149,12 +152,24 @@ a, button, input{
 a:focus, a:hover {
     color: #9a694a;
 }
-
+.mega-menu .drop-down-multilevel{
+    right: 0;
+}
+.team-round.full-border{
+    background-color: #fff;
+}
+.team-round .team-photo img{
+    max-width: 75%;
+    margin-top: 15px;
+}
 @media (min-width: 992px){
     .desktopTopFixed.mega-menu > section.menu-list-items .menu-bar > ul > li {
         padding: 20px 0px;
         vertical-align: middle;
         float: right;
+    }
+    .mega-menu > section.menu-list-items .menu-bar > ul > li {
+        float: left;
     }
 }
 @media (max-width: 991px) {
