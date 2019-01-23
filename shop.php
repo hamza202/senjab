@@ -88,14 +88,14 @@
 
     <section class="page-section-ptb gray-bg">
         <div class="container">
-            <div class="row">
+            <div class="row ">
                 <div class="col-lg-12 col-md-12">
                     <div class="section-title text-center">
                         <h2 class="title-effect">Electronic Stores</h2>
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-4 col-6">
                     <a href="#" class="card-centered">
                         <img src="images/Amazon.png" alt="">
@@ -149,11 +149,6 @@
                 <div class="col-lg-3 col-md-4 col-6">
                     <a href="#" class="card-centered">
                         <img src="images/Aliexpress.png" alt="">
-                    </a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6">
-                    <a href="#" class="card-centered">
-                        <img src="images/EBay.png" alt="">
                     </a>
                 </div>
             </div>
