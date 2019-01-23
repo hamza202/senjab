@@ -212,6 +212,26 @@ a:focus, a:hover {
 .shop-details-bottom-container p{
     color: #fff;
 }
+::selection{
+    background: #9a694a;
+}
+.reviews-section .testimonial{
+    background-color: #fff;
+}
+.pagination > li > a, .pagination > li > span{
+    background-color: transparent;
+    border: 1px solid #9a694a;
+}
+.pagination > li > a:hover, .pagination > li > span:hover,.pagination li span:hover ,
+.page-item.active .page-link ,.page-item.active .page-link:hover,.pagination li span:focus,.pagination li a:focus{
+    color: #fff;
+    background:#9a694a ;
+
+}
+.pagination > li > a:hover, .pagination > li > span:hover,
+.page-item.active .page-link ,.page-item.active .page-link:hover{
+    border: 1px solid #9a694a;
+}
 @media (min-width: 992px){
     .desktopTopFixed.mega-menu > section.menu-list-items .menu-bar > ul > li {
         padding: 20px 0px;
