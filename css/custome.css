@@ -182,6 +182,36 @@ a:focus, a:hover {
     max-height: 100%;
     max-width: 100%;
 }
+.header.fancy .mega-menu .menu-links > li.active > a{
+    color: #9a694a;
+}
+.shop-details-section .card-centered{
+    border-radius: 50px;
+    background: rgba(255, 200, 1, 0.32);
+}
+.shop-details-section .card-centered:hover{
+    border: 2px dashed rgba(255 , 200 , 1 , 0.5);
+}
+.shop-details-section .card-centered img{
+    filter: sepia(1) saturate(0) contrast(120%);
+    -webkit-filter: sepia(1) saturate(0) contrast(120%);
+}
+.shop-details-top-container{
+    background: #fff;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 1px solid #9a694a;
+}
+.shop-details-bottom-container{
+    padding: 20px;
+    background-color: #9a694a;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.shop-details-bottom-container p{
+    color: #fff;
+}
 @media (min-width: 992px){
     .desktopTopFixed.mega-menu > section.menu-list-items .menu-bar > ul > li {
         padding: 20px 0px;

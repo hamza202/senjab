@@ -53,10 +53,10 @@
                                 <ul class="menu-links">
 
                                     <li>
-                                        <a href="#">about </a>
+                                        <a href="about.php">about </a>
                                     </li>
                                     <li>
-                                        <a href="#">Shop </a>
+                                        <a href="shop.php">Shop </a>
                                     </li>
                                     <li>
                                         <a href="#">pricing </a>
