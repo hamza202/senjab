@@ -232,11 +232,21 @@ a:focus, a:hover {
 .page-item.active .page-link ,.page-item.active .page-link:hover{
     border: 1px solid #9a694a;
 }
+ul.page-breadcrumb li a:hover{
+    color: #ffc801;
+}
+.blog-entry .blog-detail{
+    background-color: #f0f0f0;
+    border-bottom: 3px solid #ffc801;
+}
+.blog-entry .blog-detail .entry-title a:hover,.blog-entry .entry-meta ul li i ,.button.arrow{
+    color: #9a694a;
+}
 @media (min-width: 992px){
     .desktopTopFixed.mega-menu > section.menu-list-items .menu-bar > ul > li {
         padding: 20px 0px;
         vertical-align: middle;
-        float: right;
+        float: left;
     }
     .mega-menu > section.menu-list-items .menu-bar > ul > li {
         float: left;

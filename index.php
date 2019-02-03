@@ -94,7 +94,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img class="img-fluid full-width mb-20" src="images/about2.png" alt="">
+                    <img class="img-fluid full-width mb-20" src="images/anout1.jpg" alt="">
                 </div>
                 <div class="col-lg-6">
                     <div class="section-title">
@@ -117,7 +117,7 @@
     <section class="about-05-split split-section gray-bg page-section-ptb">
         <div class="side-background">
             <div class="col-lg-6 img-side img-right">
-                <div class="img-holder img-cover" style="background: url(images/5.jpg) no-repeat; min-height: 100% ; min-width: 100%; background-size: cover">
+                <div class="img-holder img-cover" style="background: url(images/shop1.jpg) no-repeat; min-height: 100% ; min-width: 100%; background-size: cover">
                 </div>
             </div>
         </div>
@@ -146,7 +146,7 @@
     <section class="about-05-split split-section gray-bg page-section-ptb">
         <div class="side-background">
             <div class="col-lg-6 img-side img-left">
-                <div class="img-holder img-cover" style="background: url(images/6.jpg) no-repeat; min-height: 100% ; min-width: 100%; background-size: cover">
+                <div class="img-holder img-cover" style="background: url(images/shop2.png) no-repeat; min-height: 100% ; min-width: 100%; background-size: cover">
                 </div>
             </div>
         </div>

@@ -62,14 +62,14 @@
                                         <a href="#">pricing </a>
                                     </li>
                                     <li>
-                                        <a href="#">reviews </a>
+                                        <a href="reviwes.php">reviews </a>
                                     </li>
                                     <li>
                                         <a href="javascript:void(0)">help <i
                                                 class="fa fa-angle-down fa-indicator"></i></a>
                                         <!-- drop down multilevel  -->
                                         <ul class="drop-down-multilevel">
-                                            <li><a href="javascript:void(0)">articles </a></li>
+                                            <li><a href="article.php">articles </a></li>
                                             <li><a href="javascript:void(0)">faq </a></li>
                                             <li><a href="javascript:void(0)">contact us </a></li>
                                         </ul>
