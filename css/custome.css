@@ -242,6 +242,9 @@ ul.page-breadcrumb li a:hover{
 .blog-entry .blog-detail .entry-title a:hover,.blog-entry .entry-meta ul li i ,.button.arrow{
     color: #9a694a;
 }
+.accordion.shadow .acd-group.acd-active .acd-heading, .accordion.shadow .acd-group .acd-heading:hover{
+    background: #9a694a;
+}
 @media (min-width: 992px){
     .desktopTopFixed.mega-menu > section.menu-list-items .menu-bar > ul > li {
         padding: 20px 0px;
