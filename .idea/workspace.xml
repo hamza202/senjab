@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11a6b674-8f01-41aa-be9f-e01e9598fa1e" name="Default Changelist" comment="" />
+    <list default="true" id="11a6b674-8f01-41aa-be9f-e01e9598fa1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/article-details.php" beforeDir="false" afterPath="$PROJECT_DIR$/article-details.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/article-details.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+            <state relative-caret-position="529">
+              <caret line="132" column="76" selection-start-line="132" selection-start-column="76" selection-end-line="132" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -198,16 +200,15 @@
       <updated>1548192709469</updated>
       <workItem from="1548192712616" duration="13770000" />
       <workItem from="1548230246164" duration="2264000" />
-      <workItem from="1549157351769" duration="3636000" />
+      <workItem from="1549157351769" duration="4166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19670000" />
+    <option name="totallyTimeSpent" value="20200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -343,8 +344,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/article-details.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+        <state relative-caret-position="529">
+          <caret line="132" column="76" selection-start-line="132" selection-start-column="76" selection-end-line="132" selection-end-column="76" />
         </state>
       </provider>
     </entry>
